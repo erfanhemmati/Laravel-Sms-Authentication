@@ -9,8 +9,8 @@
 ### Configuration
 
 - Open .env file and add your database configuration and save it
-- Edit your https://raygansms.com/ account information in .env file
-- Edit "GOOGLE_RECAPTCHA_KEY" and "GOOGLE_RECAPTCHA_SECRET" variable to enable google recaptcha
+- Add your https://raygansms.com/ account information in .env file
+- Add "GOOGLE_RECAPTCHA_KEY" and "GOOGLE_RECAPTCHA_SECRET" variable to enable google recaptcha
 - Run "php artisan migrate" command to run project migration files
 - Run "php artisan serve" and go to 127.0.0.1:8000 address
 
